@@ -1,0 +1,91 @@
+
+{
+    "License Details":
+    [
+        {
+            "key": "License Number",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Licensee",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Trading Name",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Legal Status",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Issue Date",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Expiry Date",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "Authorised Signatory":
+    [
+        {
+            "key": "Name",
+            "value present in same line": false,
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": true
+        }
+    ],
+
+    "Address":
+    [
+        {
+            "key": "Premises/Floor No.",
+            "value present in same line": true,
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": true
+        },
+        {
+            "key": "Building Name",
+            "value present in same line": true,
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        },
+        {
+            "key": "Area Name",
+            "value present in same line": true,
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+
+    ],
+    "Activities":
+    {
+        "Is Arabic value present": true,
+        "has multiple values": true
+    }
+    
+}
