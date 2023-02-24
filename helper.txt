@@ -1,0 +1,3 @@
+language detection
+
+https://stackoverflow.com/questions/39142778/how-to-determine-the-language-of-a-piece-of-text
