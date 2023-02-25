@@ -1,3 +1,5 @@
 language detection
 
 https://stackoverflow.com/questions/39142778/how-to-determine-the-language-of-a-piece-of-text
+
+https://stackoverflow.com/questions/55770233/convert-pytesseract-string-output-to-pandas-df
