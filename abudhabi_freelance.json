@@ -1,0 +1,122 @@
+{
+    "Certificate No":
+    [
+        {
+            "key": "Certificate No",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+    "Issue Date":
+    [
+        {
+            "key": "Issue Date",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "License No":
+    [
+        {
+            "key": "License No",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "ADCCI No":
+    [
+        {
+            "key": "ADCCI No",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "License Type":
+    [
+        {
+            "key": "License Type",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "Legal Form":
+    [
+        {
+            "key": "Legal Form",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "Trade Name":
+    [
+        {
+            "key": "Trade Name",
+            "value present in same line": true, 
+            "Is Arabic value present": true,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "Establishment Date":
+    [
+        {
+            "key": "Establishment Date",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "Expiry Date":
+    [
+        {
+            "key": "Expiry Date",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "MOHRE":
+    [
+        {
+            "key": "MOHRE",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ],
+
+    "GDRFA":
+    [
+        {
+            "key": "GDRFA",
+            "value present in same line": true, 
+            "Is Arabic value present": false,
+            "Is Arabic key present": true,
+            "has multiple values": false
+        }
+    ]
+    
+}
